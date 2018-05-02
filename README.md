@@ -1,6 +1,6 @@
 # Using Deep Q-Network to Learn How To Play Swing Monkey
 
-<img src="./out.gif" width="250">
+<img src="./out.gif" width="500">
 
 3 mins version on Youtube: [DQN for swing monkey](https://www.youtube.com/watch?v=1U4nHe-rRgM)
 
