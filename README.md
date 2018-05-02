@@ -19,7 +19,7 @@ cd swingmonkey_18
 python stub.py
 ```
 ## Who are we? 
-* Team: conceptShift
+Team: conceptShift
 * Hung-Yi Wu (hywu0110)
 * Cheng-Ye Liu (chengyeliu)
 * Hsea-Ching Hsueh (Thomas)
