@@ -1,4 +1,4 @@
-# Using Deep Q-Network to Learn How To Play Flappy Bird
+# Using Deep Q-Network to Learn How To Play Swing Monkey
 
 <img src="./out.gif" width="250">
 
