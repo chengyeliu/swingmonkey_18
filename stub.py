@@ -273,7 +273,7 @@ if __name__ == '__main__':
     agent = Learner()
 
     #print("Initial \n", agent.Q_model.layers[0].get_weights()[0])
-    agent.Q_model.load_weights('my_weights_first_1000.h5', by_name=True)
+    agent.Q_model.load_weights('my_weights.h5', by_name=True)
     #agent.epsilon = 0.015
     #print("loading \n", agent.Q_model.layers[0].get_weights()[0])
     
