@@ -5,17 +5,16 @@
 3 mins version on Youtube: [DQN for swing monkey](https://www.youtube.com/watch?v=1U4nHe-rRgM)
 
 ## Overview
-This project follows the description of the Deep Q Learning algorithm described in Playing Atari with Deep Reinforcement Learning [2] and shows that this learning algorithm can be further generalized to the notorious Flappy Bird.
+This project uses Deap Q Learning to find a policy for the monkey that can navigate the trees. The implementation of the game itself is in file **SwingMonkey.py**. The game can be started by running the file **stub.py**. 
 
 ## Installation Dependencies:
-* Python 2.7 or 3
-* TensorFlow 0.7
+* Python 3.6
+* Keras
 * pygame
-* OpenCV-Python
 
 ## How to Run?
 ```
-git clone https://github.com/yenchenlin1994/DeepLearningFlappyBird.git
-cd DeepLearningFlappyBird
-python deep_q_network.py
+git clone https://github.com/chengyeliu/swingmonkey_18.git
+cd swingmonkey_18
+python stub.py
 ```
