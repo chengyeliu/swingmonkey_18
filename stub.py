@@ -281,7 +281,7 @@ if __name__ == '__main__':
     hist = []
 
     # Run games. 
-    run_games(agent, hist, 200, 100)
+    run_games(agent, hist, 10, 10)
     
     #agent.Q_model.save_weights('my_weights.h5')
     #print("Saved \n", agent.Q_model.layers[0].get_weights()[0])
