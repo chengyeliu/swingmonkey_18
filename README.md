@@ -1,6 +1,6 @@
 # Using Deep Q-Network to Learn How To Play Flappy Bird
 
-<img src="./images/out.gif" width="250">
+<img src="./out.gif" width="250">
 
 7 mins version: [DQN for flappy bird](https://www.youtube.com/watch?v=THhUXIhjkCM)
 
