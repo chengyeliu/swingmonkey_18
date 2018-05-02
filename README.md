@@ -18,3 +18,9 @@ git clone https://github.com/chengyeliu/swingmonkey_18.git
 cd swingmonkey_18
 python stub.py
 ```
+## Who are we? 
+Course: CS181 Machine Learning, Spring 2018
+Team: conceptShift
+Hung-Yi Wu (hywu0110)
+Cheng-Ye Liu (chengyeliu)
+Hsea-Ching Hsueh (Thomas)
